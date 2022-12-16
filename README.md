@@ -1,4 +1,4 @@
-# section4-chapter4 Todo App
+# chapter4 Todo App
 
 ### SEB_BE_41 이상유
 
